@@ -1,0 +1,1 @@
+Part2 is to create a multithreaded server that can handle multiple client connection at the same time.
